@@ -1,6 +1,5 @@
 from math import atan2, degrees, acos, pi, sin, cos
 
-
 l1 = 0
 l2 = 100
 l3 = 100
