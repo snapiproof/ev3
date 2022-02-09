@@ -58,4 +58,3 @@ for tp in range(10,60,1):
     K = dot(C, D)
     K = K.transpose()
     print(tp, list(K[0]*math.pi/180))
-    
